@@ -6,8 +6,8 @@ from structurizr_py.core.util.url import Url
 
 class CodeElement:
     """
-    Represents a code element, such as a Python class or interface, that is
-    a part of the design of a component.
+    Represents a code element, such as a Python class that is a part of the
+    design of a component.
     """
 
     """The role of the code element ... Primary or Supporting"""
